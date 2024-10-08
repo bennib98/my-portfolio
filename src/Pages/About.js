@@ -24,10 +24,9 @@ function About() {
               <div className="col col-6 border-line-v">
                 <div className="text-box"  data-aos="fade-up">
                   <p>
-                    <b>I'm</b>{" "} {new Date().getFullYear() <=2024 ? ` a ${new Date().getFullYear() - 2020}${new Date().getFullYear() < 4 ? "th" : "rd" } year B.tech student pursuing ` : "graduated"}
+                    <b>I'm</b>{" "} {new Date().getFullYear() <=2024 ? ` a ${new Date().getFullYear() - 2020}${new Date().getFullYear() < 4 ? "th" : "rd" } year PhD student pursuing ` : "graduated"}
                     Electrical and Electronics Engineering from Maharaja Agrasen Institute of Technology. I like Doing coding and making web development related projects
-                    the simple and minimalistic design and I also love learning new things and technologies. 
-                    I'm also a digital artist by passion.
+                    the simple and minimalistic design and I also love learning new things and technologies.
                   </p>
                 </div>
               </div>
@@ -39,16 +38,16 @@ function About() {
                       {age}
                     </li>
                     <li>
-                      <strong>Birthday: </strong>22 April 2001
+                      <strong>Birthday: </strong>20 January 1998
                     </li>
                     <li>
-                      <strong>Hometown: </strong>Pithoragarh, Uttarakhand
+                      <strong>Hometown: </strong>Bologna, Italy
                     </li>
                     <li>
-                      <strong>Gmail: </strong>narendersinghbisht382@gmail.com
+                      <strong>Gmail: </strong>benedetta.baldini98@gmail.com
                     </li>
                     <li>
-                      <strong>Residence: </strong>Delhi, India
+                      <strong>Residence: </strong>Bologna, Italy
                     </li>
                   </ul>
                 </div>
