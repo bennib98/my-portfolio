@@ -28,7 +28,7 @@ const Home = () => {
           </div>
           <div className="title" data-aos="fade-up">
           <h1>
-          Narender Singh Bisht
+          Benedetta Baldini
           </h1>
           </div>
           <div className="subtitle subtitle-typed">
@@ -41,7 +41,7 @@ const Home = () => {
               }}
               startDelay={2000}
               cursorColor="#78cc6d"
-              multiText={["Developer", "Digital Artist", "Student", "Learner"]}
+              multiText={["Data Scientist", "PhD Student", "Learner"]}
               multiTextDelay={1000}
               typeSpeed={50}
               multiTextLoop
@@ -72,7 +72,7 @@ const Home = () => {
             </a>
             <a
               className="link"
-              href="https://www.linkedin.com/in/narender-singh-bisht-4529051b7/"
+              href="https://www.linkedin.com/in/benedetta-baldini/"
               rel="noreferrer"
               target="_blank"
               aria-label="linkedin"
