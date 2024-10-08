@@ -19,7 +19,7 @@ const Home = () => {
           <div className="slide"></div>
           <div className="image">
             <img
-              src="/assets/profile(1).jpg"
+              src="/assets/fotoBB.jpeg"
               width="936"
               height="936"
               alt="profile"
